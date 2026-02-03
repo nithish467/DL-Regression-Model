@@ -131,7 +131,6 @@ plt.show()
 
 
 ### Dataset Information
-Include screenshot of the generated data
 
 <img width="571" height="453" alt="download" src="https://github.com/user-attachments/assets/a57218ab-67c3-4936-816f-18883d2ef9a2" />
 
